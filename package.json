@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node app/main.js"
+  },
+  "keywords": [
+    "build-your-own-x"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
